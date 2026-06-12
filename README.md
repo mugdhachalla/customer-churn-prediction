@@ -219,9 +219,9 @@ http://localhost:8501
 
 ## Application Preview
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 ---
 
 ## Example Prediction
